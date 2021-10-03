@@ -1,0 +1,1 @@
+![decorator img](https://github.com/maratbekovaidar/Design-Patterns/tree/main/Decorator/DecoratorExample/Decorator.png)
