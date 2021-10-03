@@ -1,1 +1,1 @@
-![decorator img](https://github.com/maratbekovaidar/Design-Patterns/tree/main/Decorator/DecoratorExample/Decorator.png)
+<img src="Decorator.png" alt="drawing" style="width:900px;"/>
